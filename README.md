@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/afurgapil/afurgapil/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
