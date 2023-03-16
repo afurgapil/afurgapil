@@ -18,8 +18,6 @@
 </picture>
 <img  src="https://streak-stats.demolab.com?user=afurgapil&theme=dark&hide_border=true&sideNums=EB5454&fire=EB0000&ring=EB4600"
 (https://streak-stats.demolab.com?user=afurgapil&theme=dark&hide_border=true&sideNums=EB5454&fire=EB0000&ring=EB4600)](https://git.io/streak-stats)
-
-
 </div>
 <picture>
 <source 
@@ -33,8 +31,7 @@
 <img src="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-<div align="center">
-</div>
+
 
 ###
 
