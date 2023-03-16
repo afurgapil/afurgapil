@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋! I'm Gafur</h1>
 
 ###
-
-
-
 <div align="center">
 <picture>
 <source 
@@ -19,6 +16,8 @@
 <img  src="https://streak-stats.demolab.com?user=afurgapil&theme=dark&hide_border=true&sideNums=EB5454&fire=EB0000&ring=EB4600"
 (https://streak-stats.demolab.com?user=afurgapil&theme=dark&hide_border=true&sideNums=EB5454&fire=EB0000&ring=EB4600)](https://git.io/streak-stats)
 </div>
+  
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api/top-langs/?username=afurgapil&theme=dark&layout=compact"
@@ -30,7 +29,7 @@
 />
 <img src="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
+</div>
 
 
 ###
@@ -39,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://twitter.com/0xgapil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -57,7 +56,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="35" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" width="35" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" width="35" alt="bootstrap logo"  />
