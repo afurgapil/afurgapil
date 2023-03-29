@@ -1,39 +1,5 @@
 <h1 align="center">Hi 👋! I'm Gafur</h1>
 
-###
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api?username=afurgapil&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api?username=afurgapil&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<img  src="https://streak-stats.demolab.com?user=afurgapil&theme=dark&hide_border=true&sideNums=EB5454&fire=EB0000&ring=EB4600"
-(https://streak-stats.demolab.com?user=afurgapil&theme=dark&hide_border=true&sideNums=EB5454&fire=EB0000&ring=EB4600)](https://git.io/streak-stats)
-</div>
-  
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api/top-langs/?username=afurgapil&theme=dark&layout=compact&hide=css"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
- srcset="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api/top-langs/?username=afurgapil&hide=css"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-m9kz4azux-afurgapil.vercel.app/api?username=afurgapil&show_icons=true" />
-</picture>
-</div>
-
-
-###
-
 <h2 align="center">Social</h2>
 
 ###
