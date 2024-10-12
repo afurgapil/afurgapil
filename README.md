@@ -37,7 +37,7 @@
 - BackEnd
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,rust,solidity" />
   </a>
 </p>
 
