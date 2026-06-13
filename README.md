@@ -1,10 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
-###
-
-<img align="left" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU1N3c5ZThraHc4cnZ5NjhsM3NoMWx3aHpnczVuNHIybGNraDR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d0ejT4leVu3cN93fDd/giphy.gif"  />
 
 ###
 
